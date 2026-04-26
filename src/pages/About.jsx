@@ -8,7 +8,7 @@ const education = [
 
 const experience = [
   { year: '2024 – Present', role: 'Junior Engineer', company: 'Upsilon Engineering', desc: 'Structural design, site supervision and AutoCAD drawings for commercial projects.' },
-  { year: '2023', role: 'Freelance Webi Developer', company: 'Self Employed', desc: 'Built websites and web apps for small businesses in Eldoret.' },
+  
 ]
 
 const About = () => {
