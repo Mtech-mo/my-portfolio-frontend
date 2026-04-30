@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaWhatsapp, FaArrowRight, FaDownload, FaCode, FaS
 const socials = [
   { icon: <FaGithub size={22} />,   href: 'https://github.com/YourUsername' },
   { icon: <FaLinkedin size={22} />, href: 'https://linkedin.com/in/YourProfile' },
-  { icon: <FaWhatsapp size={22} />, href: 'https://wa.me/25476247561' },
+  { icon: <FaWhatsapp size={22} />, href: 'https://wa.me/254706247561' },
 ]
 
 const services = [
@@ -36,7 +36,7 @@ const Home = () => {
         <div style={styles.heroBg} />
         <div className="container" style={styles.heroContent}>
 
-          <p style={styles.heroTag}>👋 Hello, I am</p>
+          <p style={styles.heroTag}> Hello, I am</p>
           <h1 style={styles.heroTitle}>
             Otieno <span style={{ color: '#6c63ff' }}>Meshack</span>
           </h1>

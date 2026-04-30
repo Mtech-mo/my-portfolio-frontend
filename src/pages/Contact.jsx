@@ -63,7 +63,7 @@ const Contact = () => {
             <h3 style={{ color: '#fff', fontWeight: '700', margin: '2rem 0 1rem' }}>Find Me Online</h3>
             <div style={styles.socials}>
               {[
-                { icon: <FaGithub size={20} />,   href: 'https://github.com/YourUsername',     color: '#333',    label: 'GitHub' },
+                { icon: <FaGithub size={20} />,   href: 'https://github.com/Mtech-mo',     color: '#333',    label: 'GitHub' },
                 { icon: <FaLinkedin size={20} />, href: 'https://linkedin.com/in/YourProfile', color: '#0077b5', label: 'LinkedIn' },
                 { icon: <FaWhatsapp size={20} />, href: 'https://wa.me/254706247561',          color: '#25d366', label: 'WhatsApp' },
                 { icon: <FaEnvelope size={20} />, href: 'mailto:otienomeshack099@gmail.com',          color: '#ea4335', label: 'Email' },

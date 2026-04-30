@@ -8,7 +8,7 @@ const projects = [
     category: 'Full Stack',
     desc: 'A full-stack website for an engineering firm with contact form, MongoDB backend and email notifications.',
     tech: ['React', 'Node.js', 'MongoDB', 'Express'],
-    github: 'https://github.com/YourUsername/engineering-website',
+    github: 'https://github.com/Mtech-mo/engineering-website',
     live: '#',
     image: '/images/projects/project1.jpg',
     color: '#6c63ff',
